@@ -7,6 +7,7 @@
 ### 勉強中(優先順)
 - MySQL
 - AWS
+- Vue.js
 - Docker
 
 ### 将来勉強したい言語
