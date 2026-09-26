@@ -9,6 +9,7 @@
 - (Vue.js)
 
 ### インフラ
+- AWS
 - ansible
 - SAM
 - Terraform
