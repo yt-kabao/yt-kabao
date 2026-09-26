@@ -1,15 +1,17 @@
-🔰ソフトウェアエンジニア
+見習いプログラマ
 
-### 使用言語
+### サーバー
 - Laravel
+- (node.js)
+
+### フロント
 - TypeScript
+- (Vue.js)
 
-### 勉強中(優先順)
+### インフラ
+- ansible
+- SAM
+- Terraform
+
+### DB
 - MySQL
-- AWS
-- Vue.js
-- Docker
-
-### 将来勉強したい言語
-- C#
-- Node.js
